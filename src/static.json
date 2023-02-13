@@ -1,0 +1,39 @@
+{
+    "bookables": [ 
+        {
+            "id": 3,
+            "group": "Rooms",
+            "title": "Games Room",
+            "notes":  "Table tennis, table football, pinball ! Please tiday up!",
+            "sessions": [0, 2, 4],
+            "days": [0, 2, 3, 4, 5, 6]
+        }
+    ],
+    "users": [ 
+        {
+            "id": 1,
+            "name": "Mark",
+            "img": "user1.png",
+            "title": "Envisioning Sculptor",
+            "notes": "With the company for 15 years, Mark has consistently..."
+        }
+     ],
+    "bookings": [],
+    "sessions": [
+        "Breakfast",
+        "Morning",
+        "Lunch",
+        "Afternoon",
+        "Evening"
+    ],
+    "days": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+    ]
+
+}
