@@ -14,6 +14,7 @@ import UserPicker from './Users/UserPicker';
 
 function App() {
   return (
+  <Router>
     <div className="App">
       <header>
         <nav>
@@ -46,7 +47,8 @@ function App() {
         <Route path="/users" element={<UsersPage />} />
       </Routes>
     </div>
-  );``
+    </Router>
+  );
 }
 
 export default App;
