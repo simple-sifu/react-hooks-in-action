@@ -61,15 +61,15 @@ header a.btn {
   margin-left: 0;
 }
 
-a.btn {
+/* a.btn {
   text-decoration: none;
   background-color: var(--primary);
-}
+} */
 
-.btn-delete {
+/* .btn-delete {
   background: var(--error);
   color: white;
-}
+} */
 
 .btn > svg:first-child {
   margin-right: 0.4rem;
